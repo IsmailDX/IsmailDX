@@ -1,3 +1,17 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.webp" width="600"/>
+  <div id="badges">
+<!--     <br/> -->
+    <a href="https://www.linkedin.com/in/sbeinaty/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a
+    <a href="mailto:alsbeinaty@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=vladiusftw&style=flat-square&color=blue" alt=""/>
+ </div>
+
 # 💫 About Me:
 My name is Ismail. I am 22 years old.<br>I'm currently working on myself, <br>because I need construction.<br>I can hack Wi-Fi passwords :).<br>
 
