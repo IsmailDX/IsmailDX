@@ -1,7 +1,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none;"  valign="top">
-      <img align="left" src="/Assets/pic1.jpg" alt="Metrics" width="380">
+      <img align="left" src="/Assets/shanks1.png" alt="Metrics" width="380">
       </br></br></br>
       <img align="left" src="/github-metrics.svg" alt="Metrics" width="380">
     </td>
